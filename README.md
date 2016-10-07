@@ -1,24 +1,13 @@
-# README
+# Rails Store Without Scaffolding
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Demoing the creation of a simple product MVCR bundle without the use of scaffolding.
 
-Things you may want to cover:
+Currently implemented:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Product Model
+* Products Controller
+* RESTful Products Routes
+* Products Controller Index Action
+* Products Index View
+* Products Controller Show Action
+* Products Show View
